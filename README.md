@@ -74,4 +74,5 @@ Este projeto é livre para estudo e uso acadêmico.
 ## 👤 Autor
 
 Giovani Ramires Cardoso dos Santos
+
 Estudante de Análise e Desenvolvimento de Sistemas
