@@ -5,3 +5,5 @@ dist/
 *.class
 *.jar
 *.log
+build.xml
+manifest.mf
