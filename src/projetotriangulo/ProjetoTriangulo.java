@@ -23,5 +23,6 @@ public class ProjetoTriangulo {
         } else{
             System.out.println("Os valores informados não formam um triângulo");
         }
+        sc.close();
     }
     }
